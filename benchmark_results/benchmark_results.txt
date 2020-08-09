@@ -1,0 +1,220 @@
+********************************************************************************
+FINISH BENCHMARK random_small_int
+End time: 2020-08-08 21:46:38
+Solved: 181918
+Unsolved: 40
+Total: 181958
+Unsolved instances:
+	random_small_int/20/random_20_48715.pol
+	random_small_int/20/random_20_23510.pol
+	random_small_int/20/random_20_3830.pol
+	random_small_int/20/random_20_39345.pol
+	random_small_int/20/random_20_7655.pol
+	random_small_int/20/random_20_48578.pol
+	random_small_int/20/random_20_13508.pol
+	random_small_int/10/random_10_33662.pol
+	random_small_int/10/random_10_21359.pol
+	random_small_int/30/random_30_19045.pol
+	random_small_int/30/random_30_39750.pol
+	random_small_int/30/random_30_17268.pol
+	random_small_int/30/random_30_31522.pol
+	random_small_int/30/random_30_44427.pol
+	random_small_int/30/random_30_8145.pol
+	random_small_int/30/random_30_14306.pol
+	random_small_int/30/random_30_21578.pol
+	random_small_int/30/random_30_40974.pol
+	random_small_int/30/random_30_44279.pol
+	random_small_int/30/random_30_45211.pol
+	random_small_int/30/random_30_4247.pol
+	random_small_int/30/random_30_32527.pol
+	random_small_int/30/random_30_45356.pol
+	random_small_int/30/random_30_20685.pol
+	random_small_int/30/random_30_17164.pol
+	random_small_int/30/random_30_7286.pol
+	random_small_int/30/random_30_21311.pol
+	random_small_int/30/random_30_10252.pol
+	random_small_int/40/random_40_18704.pol
+	random_small_int/40/random_40_31394.pol
+	random_small_int/40/random_40_16688.pol
+	random_small_int/40/random_40_29870.pol
+	random_small_int/40/random_40_22773.pol
+	random_small_int/40/random_40_23042.pol
+	random_small_int/40/random_40_8423.pol
+	random_small_int/40/random_40_9293.pol
+	random_small_int/40/random_40_1032.pol
+	random_small_int/40/random_40_4138.pol
+	random_small_int/40/random_40_7196.pol
+	random_small_int/40/random_40_24424.pol
+********************************************************************************
+FINISH BENCHMARK random_small_float
+End time: 2020-08-09 00:39:52
+Solved: 296156
+Unsolved: 64
+Total: 296220
+Unsolved instances:
+	random_small_float/50/random_50_29748.pol
+	random_small_float/50/random_50_29038.pol
+	random_small_float/50/random_50_3773.pol
+	random_small_float/50/random_50_27499.pol
+	random_small_float/50/random_50_28147.pol
+	random_small_float/50/random_50_10970.pol
+	random_small_float/50/random_50_17170.pol
+	random_small_float/50/random_50_46459.pol
+	random_small_float/50/random_50_44530.pol
+	random_small_float/50/random_50_30674.pol
+	random_small_float/50/random_50_37863.pol
+	random_small_float/50/random_50_26738.pol
+	random_small_float/50/random_50_26699.pol
+	random_small_float/50/random_50_29395.pol
+	random_small_float/50/random_50_35595.pol
+	random_small_float/60/random_60_1380.pol
+	random_small_float/60/random_60_25782.pol
+	random_small_float/60/random_60_621.pol
+	random_small_float/60/random_60_30992.pol
+	random_small_float/60/random_60_29192.pol
+	random_small_float/60/random_60_34173.pol
+	random_small_float/60/random_60_29322.pol
+	random_small_float/60/random_60_7622.pol
+	random_small_float/60/random_60_37709.pol
+	random_small_float/60/random_60_6661.pol
+	random_small_float/60/random_60_46063.pol
+	random_small_float/60/random_60_1473.pol
+	random_small_float/60/random_60_4898.pol
+	random_small_float/60/random_60_16119.pol
+	random_small_float/60/random_60_9575.pol
+	random_small_float/60/random_60_6440.pol
+	random_small_float/60/random_60_39567.pol
+	random_small_float/60/random_60_13830.pol
+	random_small_float/20/random_20_48261.pol
+	random_small_float/20/random_20_42956.pol
+	random_small_float/20/random_20_9065.pol
+	random_small_float/20/random_20_32183.pol
+	random_small_float/20/random_20_23867.pol
+	random_small_float/20/random_20_34362.pol
+	random_small_float/10/random_10_23293.pol
+	random_small_float/10/random_10_36291.pol
+	random_small_float/10/random_10_17927.pol
+	random_small_float/10/random_10_17892.pol
+	random_small_float/30/random_30_38660.pol
+	random_small_float/30/random_30_41558.pol
+	random_small_float/30/random_30_17743.pol
+	random_small_float/30/random_30_21954.pol
+	random_small_float/30/random_30_22226.pol
+	random_small_float/30/random_30_839.pol
+	random_small_float/30/random_30_13604.pol
+	random_small_float/40/random_40_2393.pol
+	random_small_float/40/random_40_19380.pol
+	random_small_float/40/random_40_21870.pol
+	random_small_float/40/random_40_10878.pol
+	random_small_float/40/random_40_27973.pol
+	random_small_float/40/random_40_17091.pol
+	random_small_float/40/random_40_37806.pol
+	random_small_float/40/random_40_20613.pol
+	random_small_float/40/random_40_19502.pol
+	random_small_float/40/random_40_5999.pol
+	random_small_float/40/random_40_38431.pol
+	random_small_float/40/random_40_41867.pol
+	random_small_float/40/random_40_33610.pol
+	random_small_float/40/random_40_9194.pol
+********************************************************************************
+FINISH BENCHMARK random_large_float
+End time: 2020-08-09 00:41:59
+Solved: 39
+Unsolved: 1
+Total: 40
+Unsolved instances:
+	random_large_float/500/random_500_12.pol
+********************************************************************************
+FINISH BENCHMARK AGPLIB/AGP2007/agp2007-fat
+End time: 2020-08-08 23:29:26
+Solved: 97
+Unsolved: 0
+Total: 97
+********************************************************************************
+FINISH BENCHMARK AGPLIB/AGP2007/agp2007-minarea
+End time: 2020-08-08 23:30:18
+Solved: 97
+Unsolved: 0
+Total: 97
+********************************************************************************
+FINISH BENCHMARK AGPLIB/AGP2007/agp2007-orthorand
+End time: 2020-08-09 00:17:39
+Solved: 10085
+Unsolved: 3
+Total: 10088
+Unsolved instances:
+	AGPLIB/AGP2007/agp2007-orthorand/rand-200-128.pol
+	AGPLIB/AGP2007/agp2007-orthorand/rand-164-153.pol
+	AGPLIB/AGP2007/agp2007-orthorand/rand-158-37.pol
+********************************************************************************
+FINISH BENCHMARK AGPLIB/AGP2008a/agp2008a-cvk
+End time: 2020-08-09 00:17:41
+Solved: 3
+Unsolved: 0
+Total: 3
+********************************************************************************
+FINISH BENCHMARK AGPLIB/AGP2008a/agp2008a-fat
+End time: 2020-08-09 00:18:08
+Solved: 30
+Unsolved: 0
+Total: 30
+********************************************************************************
+FINISH BENCHMARK AGPLIB/AGP2008a/agp2008a-orthorand
+End time: 2020-08-09 00:31:58
+Solved: 900
+Unsolved: 0
+Total: 900
+********************************************************************************
+FINISH BENCHMARK AGPLIB/AGP2008a/agp2008a-rvk
+End time: 2020-08-09 00:30:16
+Solved: 900
+Unsolved: 0
+Total: 900
+********************************************************************************
+FINISH BENCHMARK AGPLIB/AGP2008b/agp2008b-cvk
+End time: 2020-08-09 00:30:19
+Solved: 3
+Unsolved: 0
+Total: 3
+********************************************************************************
+FINISH BENCHMARK AGPLIB/AGP2008b/agp2008b-orthorand
+End time: 2020-08-09 00:40:04
+Solved: 900
+Unsolved: 0
+Total: 900
+********************************************************************************
+FINISH BENCHMARK AGPLIB/AGP2008b/agp2008b-simplerand
+End time: 2020-08-09 00:42:08
+Solved: 159
+Unsolved: 1
+Total: 160
+Unsolved instances:
+	AGPLIB/AGP2008b/agp2008b-simplerand/simple-350-3.pol
+********************************************************************************
+FINISH BENCHMARK AGPLIB/AGP2009a/agp2009a-cvk
+End time: 2020-08-09 00:42:10
+Solved: 3
+Unsolved: 0
+Total: 3
+********************************************************************************
+FINISH BENCHMARK AGPLIB/AGP2009a/agp2009a-orthorand
+End time: 2020-08-09 01:05:46
+Solved: 540
+Unsolved: 0
+Total: 540
+********************************************************************************
+FINISH BENCHMARK AGPLIB/AGP2009a/agp2009a-rvk
+End time: 2020-08-09 02:31:15
+Solved: 540
+Unsolved: 0
+Total: 540
+********************************************************************************
+FINISH BENCHMARK AGPLIB/AGP2009a/agp2009a-simplerand
+End time: 2020-08-09 02:43:40
+Solved: 538
+Unsolved: 2
+Total: 540
+Unsolved instances:
+	AGPLIB/AGP2009a/agp2009a-simplerand/randsimple-1750-8.pol
+	AGPLIB/AGP2009a/agp2009a-simplerand/randsimple-1500-9.pol
+********************************************************************************
